@@ -1,0 +1,42 @@
+[
+    {
+        "name":"口罩實名制 2/6 上路！",
+        "url":"https://ivan19940106.github.io/Kyoto-little-trip/portfolio/face%20mask/index.html",
+        "desc":"使用 CSS 畫圖，在有限的屬性下表現出豐富的效果。"
+    },
+    {
+        "name":"75% 消毒酒精計算機",
+        "url":"https://ivan19940106.github.io/Kyoto-little-trip/portfolio/alcohol/index.html",
+        "desc":"還可以換成生命之水、85度高粱酒調製喲！還好消毒酒精是用體積百分濃度，而不是用莫耳濃度計算！"
+    },
+    {
+        "name":"Vue.js櫻花珍珠手搖杯",
+        "url":"https://ivan19940106.github.io/Kyoto-little-trip/portfolio/bubble%20tea/bubble%20tea.html",
+        "desc":"為自己調一杯珍奶，Vue.js櫻花珍珠手搖杯！Vue.js 的 v-for、v-bind、v-if 綜合練習，快來調出屬於你的珍奶吧！要記得選用環保杯喲，地球已經太擁擠了容不下一點塑膠！"
+    },
+    {
+        "name":"天然とんこつラーメン専門店 「一蘭」",
+        "url":"https://ivan19940106.github.io/Kyoto-little-trip/portfolio/ichiran/index.html",
+        "desc":"體驗 Vue.js Event Bus 在元件之間傳遞資料的妙用，無限加麵好不快樂！"
+    },
+    {
+        "name":"台鐵火車票！",
+        "url":"https://ivan19940106.github.io/Kyoto-little-trip/portfolio/one%20way%20ticket/one%20way%20ticket.html",
+        "desc":"十五節的車廂滿載的行李，南北搬運著思念。五小時的等待，終點就在前面。"
+    },
+    {
+        "name":"最新文章卡片集錦",
+        "url":"https://ivan19940106.github.io/Kyoto-little-trip/portfolio/latest%20article/latest%20article.html",
+        "desc":"將我部落格的文章疊成美麗的卡片！"
+    },
+    {
+        "name":"2小時讀懂明治維新",
+        "url":"https://ivan19940106.github.io/Kyoto-little-trip/portfolio/meijiishin/index.html",
+        "desc":"不請自來的美國海軍培里，率領著軍隊打開了日本的大門。雖然說是簽訂了喪權辱國的條約，但卻也是使日本走上現代化的契機。至今在東京台場還有紀念培里的銅像。其實培里的角色和鴉片戰爭的亨利一樣，但是在中國卻沒有人紀念他，還把林則徐說得很秋。兩國對於外國的態度，決定了未來的道路，至今也是如此。"
+    },
+    {
+        "name":"大抓周踩地雷！",
+        "url":"https://ivan19940106.github.io/Kyoto-little-trip/portfolio/draw%20lots/index.html",
+        "desc":"快來試試未來的你將會在哪裡呢？"
+    }
+]

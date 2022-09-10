@@ -20,12 +20,12 @@ date: 2022-09-10 01:19:10
 ```
 <?php
 
-namespace Life
+namespace Me
 
 use Humankind;
 use IvanHsu;
 
-class Me extends Humankind
+class LifePurpose extends Humankind
 {
     private $ivanhsu;
 
@@ -37,8 +37,8 @@ class Me extends Humankind
 
     $myAttemptions = ['guitar', 'japanese', 'writing', 'programming'];
 
-    $myTrueCalling = array_intersect($this->ivanhsu->interests, $myAttemptions);
+    $myTrueCalling = array_intersect($this->ivanhsu->interests, $myAttemptions)[0];
 
-    echo $myTrueCalling; // programming
+    echo $myTrueCalling; // 'programming'
 }
 ```

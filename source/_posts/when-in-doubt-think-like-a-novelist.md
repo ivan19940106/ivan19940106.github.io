@@ -1,7 +1,11 @@
 ---
 title: 只要出問題，小說都能搞定
 date: 2021-06-27 10:40:37
-tags: 讀書心得
+tags:
+- 小說
+- 文學
+categories: 
+- 讀書心得
 ---
 ![只要出問題，小說都能搞定](cover.jpg)
 
@@ -53,3 +57,5 @@ tags: 讀書心得
 [朱宥勳使出人生攻擊!](https://www.youtube.com/user/Chuck158207)
 
 參考文獻：[只要出問題，小說都能搞定](https://www.books.com.tw/products/0010747442)
+
+---

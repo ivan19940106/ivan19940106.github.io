@@ -17,6 +17,8 @@ nav:
   home: /
   about: /about/
   articles: /archives/
+  category: /categories/
+  tag: /tags/
   projects: https://www.instagram.com/page_turner_weekly
   search: /search/
 
@@ -36,7 +38,7 @@ social_links:
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
-tags_overview: false
+tags_overview: true
 
 # Customize the overview with the most recent blog posts on the index page.
 # Options:
@@ -45,7 +47,7 @@ tags_overview: false
 #   - sort_updated: sort posts by last modification date instead of creation date.
 posts_overview:
   show_all_posts: false
-  post_count: 5
+  post_count: 10
   sort_updated: false
 
 # Customize the archive view.
@@ -146,8 +148,8 @@ mathjax:
   
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
-  enabled: false
-  shortname: cactus-1
+  enabled: true
+  shortname: ivan19940106
 
 # Fill in your Utterances data to enable Utterances comments
 utterances:

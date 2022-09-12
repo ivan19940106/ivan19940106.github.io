@@ -11,7 +11,7 @@ date: 2022-09-10 01:19:10
 > Throughout the centuries there were men who took first steps down new roads armed with nothing but their own vision. - Ayn Rand, Novelist 👨‍💻
 
 - [x] 1994 年生於台灣台北市。
-- [x] 台科弦韻吉他社 102 級文書。
+- [x] 台科弦韻吉他社 102 級文書、圖書館工讀生。
 - [x] 2016 年冬季學期於德國阿沙芬堡應用科技大學交換。
 - [x] 2017 年派駐中國深圳工作、2019 年回台灣工作生活。
 - [x] 2020 年轉職成為網頁工程師。
@@ -39,6 +39,6 @@ class LifePurpose extends Humankind
 
     $myTrueCalling = array_intersect($this->ivanhsu->interests, $myAttemptions)[0];
 
-    echo $myTrueCalling; // 'programming'
+    echo $myTrueCalling; // programming
 }
 ```

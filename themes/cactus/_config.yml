@@ -29,12 +29,13 @@ nav:
 # only 'mail' is an exception.
 social_links:
   github: https://github.com/ivan19940106
-  facebook: https://www.facebook.com/profile.php?id=100000301162192
-  youtube: https://www.youtube.com/channel/UCPK9Gd35H4xKvhwOxLBdq0A
+  # facebook: https://www.facebook.com/profile.php?id=100000301162192
+  # youtube: https://www.youtube.com/channel/UCPK9Gd35H4xKvhwOxLBdq0A
   codepen: https://codepen.io/ivan19940106
+  internet-explorer: https://ivanhsu.space
   # twitter: /
   # linkedin: /
-  mail: mailto:tanoshii06@gmail.com
+  mail: mailto:ivanhsu94@gmail.com
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
